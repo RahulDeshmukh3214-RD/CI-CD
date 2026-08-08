@@ -20,6 +20,6 @@ jobs:
 
         - name: Run tests
           run: pytest  
-          run: echo "Pull Request CI"  
+          
 
 
